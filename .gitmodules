@@ -1,0 +1,12 @@
+[submodule "OneFilePostgres"]
+	path = OneFilePostgres
+	url = ../OneFilePostgres/
+[submodule "pl_wasm"]
+	path = pl_wasm
+	url = ../pl_wasm
+[submodule "pg_wasm"]
+	path = pg_wasm
+	url = ../pg_wasm
+[submodule "emPostgres"]
+	path = emPostgres
+	url = ../emPostgres
